@@ -27,7 +27,7 @@ public class Rdf {
 		BasicConfigurator.configure();
 
 		Rdf rdf1 = new Rdf();
-		rdf1.fun5();
+		rdf1.fun6();
 	}
 
 	/**
